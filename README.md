@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+A marketer with a 3-year background in multi-disciplinary commercial sponsorships in the sport and entertainment industry. Presently operating as a freelance designer and photographer while upskilling in a Business and Data Analytics Program at Boston Consulting Group’s Digital Academy with the intention of making a career pivot towards data-driven roles. 
 
 
 <!-- Add link to the sections -->
@@ -30,12 +30,12 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### OCTAGON SINGAPORE
+ACCOUNT EXECUTIVE<br>
+August-2018 to March-2021: 2 years and 7 months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Account management
+UNIT: Mastercard APAC
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
